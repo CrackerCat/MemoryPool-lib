@@ -5,12 +5,13 @@
 
 typedef void* byte;
 
+
 // hearder block structures
-struct BlkHeader
-{
-    size_t size;
-    __uint8_t index;
-};
+//struct BlkHeader
+//{
+//    size_t size;
+//    __uint8_t index;
+//};
 
 // Enumerate memory free errors
 enum FREE
